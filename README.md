@@ -2,6 +2,9 @@
 
 [![Tokenizer94 github stats](https://github-readme-stats.vercel.app/api?username=tokenizer94&show_icons=true&include_all_commits=true&theme=vue-dark)](https://github.com/tokenizer94)
 
+.. image:: https://wakatime.com/share/@Tokenizer/92607847-a339-47c0-83c1-d024e07c1d09.png
+    :target: https://wakatime.com/
+
 ## What I know
 ![Dart](https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg)
 ![Flutter](https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg)
