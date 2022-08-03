@@ -1,7 +1,7 @@
 # Hi there 👋 this is Mostafa
 
-### I am a Flutter Developer with more than 3 years of exprience in software development, specialy mobile apps.
-<br>
+### I am a Flutter Developer with more than 3 years of exprience in software development, specialy mobile apps.<br>
+
 [![Tokenizer94 github stats](https://github-readme-stats.vercel.app/api?username=tokenizer94&show_icons=true&include_all_commits=true&theme=vue-dark)](https://github.com/tokenizer94)
 
 ## What I know
