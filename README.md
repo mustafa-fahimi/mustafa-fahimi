@@ -1,6 +1,18 @@
 # Hi there 👋 this is Mostafa
 
-### I am a Flutter Developer with more than 3 years of exprience in software development, specialy mobile apps.<br>
+I'm obsessed with Flutter development and cutting edge technologies for software development.
+
+I focus mainly coaching and optimizing myself at every moment of my life. At the same time, helping people feel useful and driving them toward something great has always been my passion.
+
+I love being an early stage employee at fast growing and innovative companies where I can make an impact.
+
+I'm trying to be optimistic at any situation.
+
+I'm always happy to connect with like-minded professionals. Always seeking great people with great careers.
+
+Skills/Interests: Dart, Flutter, Clean Architecture, Git, Jira, Scrum, BLoC, Riverpod, SQL, SOLID principles, ...
+
+Shoot me a message. I look forward to hearing you.<br>
 
 [![mustafahimi github stats](https://github-readme-stats.vercel.app/api?username=mustafahimi&show_icons=true&include_all_commits=true&theme=vue-dark)](https://github.com/mustafahimi)
 
